@@ -1,5 +1,3 @@
----
-layout: default
 title: Bienvenue sur mon site !
 ---
 ![Footix32](Files/Footix.png)
