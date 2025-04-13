@@ -1,6 +1,6 @@
 ---
 layout: default
-Bienvenue sur mon site !
+title: Bienvenue sur mon site !
 ---
 ![Footix32](Files/Footix.png)
 
