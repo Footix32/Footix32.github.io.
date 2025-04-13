@@ -2,7 +2,11 @@
 layout: default
 title: Bienvenue sur mon site !
 ---
-![Passero](files/birdy.png)
+![Footix32](Files/Footix.png)
+
+<p align="center">
+  <img src="images/ma-photo.jpg" alt="Ma photo" width="400">
+</p>
 
 # Salut, moi c'est Footix32 👋
 
