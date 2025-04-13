@@ -4,33 +4,24 @@ title: Bienvenue sur mon site !
 ---
 ![Footix32](Files/Footix.png)
 
-<p align="center">
-  <img src="images/ma-photo.jpg" alt="Ma photo" width="400">
-</p>
-
 # Salut, moi c'est Footix32 👋
 
-Bienvenue sur ma GitHub Pages ! Je suis un passionné d'IT, de Sécu , et d'IA   
-Voici une sélection de mes projets publics hébergés sur GitHub. Une première pierre à l'édifice !
+Bienvenue sur ma GitHub Pages ! Je suis un passionné d'IT, de cybersécurité , et d'IA   
+
 
 ---
 
 ## 🌟 À propos de moi
 
-Je suis actuellement étudiant en TSSR et souhaite poursuivre en AIS ! 
-Je travaille sur divers projets, et j'apprends à scripter quelques actions pour gagner du temps durant la création de labs
+💻 En reconversion, j’ai plongé à fond dans les systèmes, réseaux & la cybersécurité.
+🔒 Analyste SOC en alternance, je surveille, analyse et réagis aux menaces en continu.
+🚒 Sapeur-pompier volontaire, j’interviens aussi bien sur le terrain que sur les incidents réseau.
+🧠 Curieux & proactif, j’apprends en créant, testant et explorant sans cesse.
+
+📂 Ici, je partage mes projets IT, scripts, tests et autres explorations techniques 👨‍💻
+
+Je travaille sur divers projets, et j'apprends à scripter quelques actions pour gagner du temps sur mes futurs projets
 N'hésitez pas à explorer mes dépôts ci-dessous !
-
----
-Un peu d'audio, pour apporter de l'amour dans l'IT.
-
-Généré par SUNO AI
-
-<audio controls>
-  <source src="files/premier-ecran.mp3" type="audio/mpeg">
-  Votre navigateur ne supporte pas la lecture audio.
-</audio>
----
 
 ## 💾 Mes Projets Publics 
 
