@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 2rem;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        background: #f9f9f9;
+        color: #333;
+      }
+      header, footer {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+      footer {
+        margin-top: 4rem;
+        font-size: 0.9rem;
+        color: #777;
+      }
+      img {
+        max-width: 150px;
+        border-radius: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>{{ page.title }}</h1>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      © {{ site.time | date: '%Y' }} - Footix32
+    </footer>
+  </body>
+</html>
