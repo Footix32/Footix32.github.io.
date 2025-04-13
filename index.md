@@ -4,6 +4,11 @@ title: Bienvenue sur mon site !
 ---
 ![Footix32](Files/Footix.png)
 
+<div style="text-align: center;">
+    <img src="Files/Footix.png" alt="Footix32" style="width: 50%; max-width: 600px;">
+</div>
+
+
 # Salut, moi c'est Footix32 👋
 
 Bienvenue sur ma GitHub Pages ! Je suis un passionné d'IT, de cybersécurité , et d'IA   
@@ -14,9 +19,13 @@ Bienvenue sur ma GitHub Pages ! Je suis un passionné d'IT, de cybersécurité ,
 ## 🌟 À propos de moi
 
 💻 En reconversion, j’ai plongé à fond dans les systèmes, réseaux & la cybersécurité.
+
 🔒 Analyste SOC en alternance, je surveille, analyse et réagis aux menaces en continu.
+
 🚒 Sapeur-pompier volontaire, j’interviens aussi bien sur le terrain que sur les incidents réseau.
+
 🧠 Curieux & proactif, j’apprends en créant, testant et explorant sans cesse.
+
 
 📂 Ici, je partage mes projets IT, scripts, tests et autres explorations techniques 👨‍💻
 
