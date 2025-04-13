@@ -2,7 +2,6 @@
 layout: default
 title: Bienvenue sur mon site !
 ---
-![Footix32](Files/Footix.png)
 
 <div style="text-align: center;">
     <img src="Files/Footix.png" alt="Footix32" style="width: 50%; max-width: 600px;">
