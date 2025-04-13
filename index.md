@@ -1,4 +1,4 @@
-title: Bienvenue sur mon site !
+Bienvenue sur mon site !
 ---
 ![Footix32](Files/Footix.png)
 
