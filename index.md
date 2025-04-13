@@ -36,7 +36,8 @@ N'hésitez pas à explorer mes dépôts ci-dessous !
 ## Accès rapide vers mes repos ! 🐥
 
 {% for repo in site.github.public_repositories %}
-- [{{ repo.name }}]({{ repo.html_url }})  
+- [{{ repo.name }}]({{ repo.html_url }})
+    
   *{{ repo.description | default: "Pas de description disponible." }}*
 {% endfor %}
 
